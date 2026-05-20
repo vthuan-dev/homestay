@@ -1,0 +1,289 @@
+{
+  "site": {
+    "name": "Rose HomeStay",
+    "title": "Rose HomeStay Cần Thơ",
+    "phone": "0706 871 283",
+    "phoneRaw": "0706871283",
+    "email": "contact@rosehomestay.vn",
+    "address": "Cần Thơ, Việt Nam"
+  },
+  "nav": {
+    "items": [
+      { "label": "Trang chủ", "href": "#home" },
+      { "label": "Giới thiệu", "href": "#about" },
+      { "label": "Hình ảnh", "href": "#gallery" },
+      { "label": "Thông tin căn hộ", "href": "#room-info" },
+      { "label": "Giá phòng", "href": "#pricing" },
+      { "label": "Tình trạng đặt phòng", "href": "#booking" },
+      { "label": "Tin tức", "href": "#blog" }
+    ]
+  },
+  "hero": {
+    "badge": "✦ Rose HomeStay ✦",
+    "title": "Chúng tôi là Rose House",
+    "subtitle": "Cách TP.HCM chỉ 170 km — điểm đến lý tưởng giữa miền Tây sông nước thơ mộng. Được bao quanh bởi những dòng kênh xanh mát, vườn trái cây bạt ngàn và chợ nổi đặc trưng của vùng đồng bằng sông Cửu Long.",
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1920&q=80",
+    "checkinLabel": "Ngày đến",
+    "checkoutLabel": "Ngày đi",
+    "guestsLabel": "Số khách",
+    "roomTypeLabel": "Loại phòng",
+    "bookBtnLabel": "Đặt phòng ngay",
+    "roomTypes": ["Toàn bộ homestay", "Phòng tiêu chuẩn", "Phòng deluxe", "Phòng gia đình"],
+    "guestOptions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  "about": {
+    "title": "Đến với Rose Homestay",
+    "description": "Đến với Rose Homestay Cần Thơ, du khách được hoà mình vào nhịp sống sông nước miền Tây độc đáo, khám phá chợ nổi bình minh, thư giãn giữa vườn trái cây và thưởng thức ẩm thực đồng quê đậm chất đồng bằng sông Cửu Long.",
+    "features": [
+      { "num": "01", "title": "Chợ nổi Cái Răng", "desc": "Khám phá chợ nổi nổi tiếng bậc nhất miền Tây, nơi bình minh rực rỡ trên sông Hậu" },
+      { "num": "02", "title": "Miệt vườn cây trái", "desc": "Thư giãn giữa vườn trái cây, hái xoài, hái bưởi, đi thuyền trên kênh rạch xanh mát" },
+      { "num": "03", "title": "Ẩm thực miền Tây", "desc": "Thưởng thức hủ tiếu Nam Vượng, bánh cống, bún mắm — hương vị chỉ Cần Thơ mới có" },
+      { "num": "04", "title": "Sông nước hữu tình", "desc": "Ngắm hoàng hôn trên bến Ninh Kiều, lác đác thuyền gỗ và tiếng sóng vỗ nhẹ nhàng" }
+    ]
+  },
+  "highlights": {
+    "link": "Cùng chúng tôi xem tiện nghi tại nơi đây nhé",
+    "items": [
+      {
+        "icon": "home",
+        "iconBg": "#ede9fe",
+        "iconColor": "#7c3aed",
+        "title": "Homestay nguyên căn",
+        "desc": "Du khách thuê toàn bộ không gian riêng tư, thoải mái như ở nhà giữa miền Tây sông nước."
+      },
+      {
+        "icon": "users",
+        "iconBg": "#ffedd5",
+        "iconColor": "#ea580c",
+        "title": "10 người (Max 20 người)",
+        "desc": "Lý tưởng cho nhóm gia đình, hội bạn — rộng rãi và ấm cúng, đủ chỗ cho mọi người."
+      },
+      {
+        "icon": "bed",
+        "iconBg": "#dbeafe",
+        "iconColor": "#2563eb",
+        "title": "3–4 phòng ngủ, mỗi phòng 2 giường",
+        "desc": "Phòng ngủ rộng thoáng, giường êm ái, view sông hoặc vườn cây xanh mát."
+      },
+      {
+        "icon": "car",
+        "iconBg": "#ccfbf1",
+        "iconColor": "#0d9488",
+        "title": "Phương tiện đi lại thuận tiện",
+        "desc": "Bãi đậu xe rộng, hỗ trợ thuê xe máy và xuồng tham quan kênh rạch địa phương."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Hình ảnh Rose Homestay",
+    "subtitle": "Đến với Rose Homestay Cần Thơ, hoà mình vào không gian sông nước miền Tây thơ mộng và bình yên.",
+    "images": [
+      { "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=600&q=80", "alt": "Phòng ngủ tiêu chuẩn" },
+      { "src": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=600&q=80", "alt": "Phòng ngủ đôi" },
+      { "src": "https://images.unsplash.com/photo-1615529328331-f8917597711f?w=600&q=80", "alt": "Phòng với cây xanh" },
+      { "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=600&q=80", "alt": "Phòng khách" },
+      { "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80", "alt": "Bếp ăn" },
+      { "src": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80", "alt": "Khu vực ngoài trời" }
+    ]
+  },
+  "roomAmenities": {
+    "roomInfo": {
+      "title": "Thông tin căn hộ",
+      "desc1": "Rose Homestay Cần Thơ giúp bạn tận hưởng buổi sáng bình minh bên dòng kênh xanh, tiếng chim hót rín rích giữa vườn trái cây ngát hương. Bạn chẳng phải đi xa, vì đã có một",
+      "highlight1": "\"địa điểm sông nước lý tưởng\"",
+      "desc1end": "sẽ mang đến cho bạn cảm giác thực sự bình yên giữa miền Tây thơ mộng.",
+      "desc2": "Hãy để Rose Homestay đưa bạn hoà vào không gian miền Tây sông nước độc đáo. Khu",
+      "highlight2": "Bếp miền Tây",
+      "desc2end": "là nơi bạn có thể tự tay chế biến đặc sản địa phương. Chúng tôi có đủ bếp nướng, bếp ga, bếp từ và nguyên liệu tươi sạch từ miệt vườn!",
+      "features": [
+        "Diện tích: 120m² — 3 phòng ngủ, 2 phòng tắm",
+        "Sức chứa tối đa: 20 người lớn",
+        "View sông và vườn cây miền Tây",
+        "Có sân vườn rộng, khu vực BBQ ngoài trời",
+        "Bếp đầy đủ tiện nghi: bếp gas, bếp nướng, bếp từ",
+        "Phòng ngủ riêng biệt, giường đôi rộng rãi",
+        "Phòng sinh hoạt chung thoáng đãng",
+        "Hệ thống điều hòa toàn bộ phòng",
+        "Giá ngày lễ Tết phụ thu riêng"
+      ]
+    },
+    "amenities": {
+      "title": "Tiện nghi",
+      "desc": "Tiện nghi của Rose Homestay Cần Thơ được chúng tôi chọn lựa để mang lại sự thoải mái như ở nhà. Hãy tận hưởng không gian",
+      "highlight": "\"đồng bằng sông Cửu Long\"",
+      "descEnd": "với đầy đủ tiện nghi hiện đại pha lẫn hơi thở đồng quê miền Tây.",
+      "noteLabel": "Lưu ý:",
+      "note": "Khu vực Bếp miền Tây hoàn toàn miễn phí. Bạn có thể tự mang nguyên liệu hoặc sử dụng đặc sản địa phương tại chỗ — khu BBQ ngoài trời luôn sẵn sàng!",
+      "items": [
+        "WiFi tốc độ cao",
+        "Điều hòa nhiệt độ",
+        "Bếp đầy đủ tiện nghi",
+        "Bãi đậu xe miễn phí",
+        "Chèo xuồng khám phá kênh",
+        "Truyền hình cáp",
+        "Máy pha cà phê",
+        "Bảo vệ 24/7",
+        "Khu BBQ ngoài trời",
+        "Sân vườn rộng"
+      ]
+    }
+  },
+  "pricing": {
+    "title": "Giá phòng",
+    "subtitle": "Chọn gói phù hợp với nhu cầu của bạn",
+    "bookLabel": "Book lịch ngay",
+    "plans": [
+      {
+        "period": "Thứ 2 — Thứ 5",
+        "type": "Giá toàn bộ Homestay",
+        "subtitle": "Giá phòng tiêu chuẩn dành cho 10 người",
+        "price": "2.500.000",
+        "unit": "đ / đêm",
+        "highlight": false,
+        "features": [
+          "Số người tiêu chuẩn: 10 người",
+          "Số người tối đa: 20 người lớn",
+          "Giá ngày lễ Tết phụ thu riêng",
+          "Để đặt phòng hãy inbox hoặc gọi số"
+        ],
+        "hotline": "0706871283"
+      },
+      {
+        "period": "Thứ 6 — Chủ nhật",
+        "type": "Giá toàn bộ Homestay",
+        "subtitle": "Giá phòng tiêu chuẩn dành cho 16 người",
+        "price": "3.500.000",
+        "unit": "đ / đêm",
+        "highlight": true,
+        "features": [
+          "Số người tiêu chuẩn: 16 người",
+          "Số người tối đa: 25 người lớn",
+          "Giá ngày lễ Tết phụ thu riêng",
+          "Để đặt phòng hãy inbox hoặc gọi số"
+        ],
+        "hotline": "0706871283"
+      },
+      {
+        "period": "Thứ 5 — Thứ 7",
+        "type": "Giá toàn bộ Homestay",
+        "subtitle": "Giá phòng tiêu chuẩn dành cho 20 người",
+        "price": "4.500.000",
+        "unit": "đ / đêm",
+        "highlight": false,
+        "features": [
+          "Số người tiêu chuẩn: 20 người",
+          "Số người tối đa: 30 người lớn",
+          "Giá ngày lễ Tết phụ thu riêng",
+          "Để đặt phòng hãy inbox hoặc gọi số"
+        ],
+        "hotline": "0706871283"
+      }
+    ]
+  },
+  "booking": {
+    "title": "Tình trạng đặt phòng",
+    "subtitle": "Kiểm tra lịch còn trống để đặt phòng phù hợp",
+    "legendBooked": "Đã đặt",
+    "legendAvailable": "Còn trống"
+  },
+  "reviews": {
+    "title": "Đánh giá khách hàng",
+    "subtitle": "Đến với chúng tôi",
+    "statsGuests": "+500",
+    "statsGuestsLabel": "Khách hàng",
+    "statsRating": "5/5",
+    "items": [
+      {
+        "name": "Nguyễn Thị Lan",
+        "role": "Khách hàng",
+        "avatar": "https://i.pravatar.cc/80?img=47",
+        "rating": 5,
+        "text": "Không gian cực kì yên bình, ngắm bầu trời bình minh trên sông rất tuyệt. Mình và gia đình đã có kỳ nghỉ đáng nhớ tại Cần Thơ. Sẽ quay lại!",
+        "date": "15/03/2024"
+      },
+      {
+        "name": "Trần Văn Minh",
+        "role": "Khách hàng",
+        "avatar": "https://i.pravatar.cc/80?img=12",
+        "rating": 5,
+        "text": "Homestay đẹp, đúng chất miền Tây. Được đi xuồng trên kênh, hái xoài trong vườn, tối nướng BBQ rất vui. Chủ nhà thiện tình và nhiệt tình!",
+        "date": "22/02/2024"
+      },
+      {
+        "name": "Phạm Thị Hương",
+        "role": "Khách hàng",
+        "avatar": "https://i.pravatar.cc/80?img=32",
+        "rating": 5,
+        "text": "View sông đẹp lắm, buổi sáng ra chợ nổi Cái Răng đáng đồng tiền! Bếp miền Tây đầy đủ, mình tự nấu đặc sản thoải mái. Rất đáng trải nghiệm!",
+        "date": "05/04/2024"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Sống ảo cùng Rose House",
+    "subtitle": "Tin tức & câu chuyện mới nhất",
+    "viewAll": "Xem tất cả",
+    "posts": [
+      {
+        "title": "Cần Thơ — Thành phố sông nước đẹp như tranh vẽ miền Tây",
+        "excerpt": "Khám phá những góc tươi đẹp của Cần Thơ qua ống kính, từ bến Ninh Kiều đến chợ nổi bình minh...",
+        "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80",
+        "date": "20/03/2024",
+        "category": "Du lịch",
+        "href": "#"
+      },
+      {
+        "title": "Trải nghiệm chèo xuồng trên kênh rạch Cần Thơ",
+        "excerpt": "Một buổi sáng yên bình với chiếc xuồng nhỏ lướt nhẹ qua những dòng kênh xanh mát là trải nghiệm khó quên...",
+        "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=600&q=80",
+        "date": "15/03/2024",
+        "category": "Trải nghiệm",
+        "href": "#"
+      },
+      {
+        "title": "Nghỉ dưỡng bên sông Hậu tại Rose Homestay Cần Thơ",
+        "excerpt": "Tận hưởng không gian thoáng đãng, tiện nghi hiện đại pha lẫn hơi thở đồng quê miền Tây...",
+        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80",
+        "date": "10/03/2024",
+        "category": "Đánh giá",
+        "href": "#"
+      },
+      {
+        "title": "Chợ nổi Cái Răng — Nét đẹp bình dị không thể bỏ qua",
+        "excerpt": "Buổi sáng sớm lên thuyền ra chợ nổi, món quà đầu tiên miền Tây trao tặng cho du khách...",
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+        "date": "05/03/2024",
+        "category": "Văn hoá",
+        "href": "#"
+      },
+      {
+        "title": "Ẩm thực Cần Thơ — Những món không thể bỏ lỡ khi đến miền Tây",
+        "excerpt": "Hủ tiếu Nam Vượng, bánh cống, bún mắm... mỗi món mang một câu chuyện riêng của xứ sông nước...",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&q=80",
+        "date": "28/02/2024",
+        "category": "Ẩm thực",
+        "href": "#"
+      },
+      {
+        "title": "5 bí kíp du lịch Cần Thơ tiết kiệm mà vẫn trọn vẹn",
+        "excerpt": "Bí quyết để khám phá Cần Thơ trọn vẹn mà không tốn quá nhiều chi phí — đi đâu, ăn gì, ở đâu...",
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
+        "date": "20/02/2024",
+        "category": "Mẹo hay",
+        "href": "#"
+      }
+    ]
+  },
+  "footer": {
+    "description": "Lưu trú tại Rose Homestay Cần Thơ để trải nghiệm không gian sông nước miền Tây, yên bình và thơ mộng.",
+    "copyright": "© 2024 Rose HomeStay. All rights reserved.",
+    "poweredBy": "Rose House",
+    "bottomLinks": ["Chính sách bảo mật", "Điều khoản sử dụng"],
+    "links": {
+      "Dịch vụ": ["Đặt phòng", "Thuê dài hạn", "Tổ chức sự kiện", "BBQ ngoài trời", "Cắm trại"],
+      "Thông tin": ["Giới thiệu", "Hình ảnh", "Giá phòng", "Tình trạng phòng", "Tin tức"],
+      "Hỗ trợ": ["Câu hỏi thường gặp", "Chính sách đặt phòng", "Chính sách hủy phòng", "Liên hệ", "Phản hồi"],
+      "Liên kết": ["Facebook", "Instagram", "TripAdvisor", "Airbnb", "Booking.com"]
+    }
+  }
+}

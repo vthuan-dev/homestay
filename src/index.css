@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-gold: #C9A84C;
+  --color-gold-hover: #A0822A;
+  --color-gold-light: #EDD98A;
+  --color-border: #E8E0D0;
+  --color-text: #1a1510;
+  --color-text-mid: #4a4040;
+  --color-text-muted: #888078;
+  --color-bg: #ffffff;
+  --color-bg-alt: #f8f7f4;
+  --color-bg-alt2: #fefcf7;
+}
+
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
+
+.nav-link {
+  @apply text-gray-700 hover:text-rose-500 text-sm font-medium transition-colors duration-200;
+}
+
+.nav-link.active {
+  @apply text-rose-500;
+}
+
+.section-title {
+  @apply text-2xl font-semibold text-gray-800 text-center mb-2;
+}
+
+.section-subtitle {
+  @apply text-gray-500 text-center text-sm mb-8;
+}
+
+.btn-primary {
+  @apply bg-rose-500 hover:bg-rose-600 text-white font-medium px-6 py-2.5 rounded transition-colors duration-200 text-sm;
+}
+
+/* Calendar styles */
+.calendar-day {
+  @apply w-8 h-8 flex items-center justify-center text-xs cursor-pointer rounded-full hover:bg-gray-100;
+}
+
+.calendar-day.booked {
+  @apply bg-rose-400 text-white hover:bg-rose-500;
+}
+
+.calendar-day.available {
+  @apply bg-green-100 text-green-700 hover:bg-green-200;
+}
+
+/* Star rating */
+.star-filled {
+  color: #f59e0b;
+}
